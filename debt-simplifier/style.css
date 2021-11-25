@@ -1,0 +1,60 @@
+html,
+body {
+    height: 100%;
+    background-color: #4b6082;
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border: 5px solid lightgray;
+    background-color: aliceblue;
+}
+
+#container2 {
+    width: 50%;
+    height: 100%;
+    border: 5px solid lightgray;
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-content: center;
+}
+
+#mynetwork2{
+    width: 100%;
+    height: 80%;
+}
+
+#container{
+    width: 100%;
+    height: 75%;
+    background-color: white;
+    display: flex;
+    margin: 0 auto;
+}
+
+#generate-graph{
+    margin-left:800px;
+    margin-top:26px;
+    display:block;
+    display : block;
+    float:left;
+    padding: 12px;
+    background-color: rgb(38, 38, 49);
+    border: black;
+}
+
+
+#solve{
+    display: block;
+    float:right;
+    margin-right:800px;
+    margin-bottom:20px;
+    display:block;
+    padding:12px;
+    background-color: rgb(38, 38, 49);
+    border: black;
+
+}
