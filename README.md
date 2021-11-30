@@ -13,7 +13,7 @@ Basically the project is divided in several parts.
    It is described with some example. It also has visual solution of debt simplifing , in which random graph is made and their connections with some
    probability factor is made.
  - The max-flow algorithm implementation for debt simplifier will be added after some time. 
-   It doesn't use any max flow algorithm but it has an basic implementation which is described in the document. 
+   It doesn't use any max flow algorithm but it is basic implementation which involves heaps, given in the document. 
 -  The third part is a basic Competitive Programming Guide for Graphs.
    It consists of how to start and deal with the graphs and problems related to different algorithms of
    graph theory.
